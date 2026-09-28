@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.db
+.next/
+node_modules/
+.env
